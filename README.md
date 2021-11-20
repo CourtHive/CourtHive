@@ -22,7 +22,7 @@ Though the focus here is 🎾 Tennis, the underlying data structures and tournam
 
 ## 👯 I’m looking to collaborate
 
-If you are a developer or designer and have a passion for sport... reach out!
+If you are a developer or designer and have a passion for sport... reach out! I have a number of other repositories (e.g. a back end NodeJS server utilizing [Level DB](https://github.com/google/leveldb)) which I'd like to make public but haven't had the time to clean up, document, write test suites, dockerize & etc.
 
 ## 💬 Ask me about Data Standards or Strategic Business Development
 
