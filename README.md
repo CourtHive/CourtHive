@@ -1,5 +1,4 @@
 ![Follow](https://img.shields.io/twitter/follow/courthive?color=%231DA1F2&logo=Twitter&style=flat-square)
-![GitHub all releases](https://img.shields.io/github/downloads/CourtHive/tods-competition-factory/total)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CourtHive/tods-competition-factory)
 ![npm](https://img.shields.io/npm/dm/tods-competition-factory)
 
