@@ -14,7 +14,7 @@ CourtHive is an Open Source / Open Data initiative to develop components to supp
 Though the focus here is 🎾 Tennis, the underlying data structures and tournament management capabilities enabled by these data structures are applicable to any sport which uses draw structures / brackets ⚽ 🏀 ⛳ 🏅.
 
 
-## 🎸 Current Focus
+## 🎸 Current Riff
 
 [Competition Factory](https://courthive.github.io/tods-competition-factory/) is a collection of state engines and associated utilities which comprise all of the business rules necessary to generate and manage tournaments with events/draws/brackets of arbitrary complexity.  The [Competition Factory](https://courthive.github.io/tods-competition-factory/) is deployed in production in both the [USTA](https://tournamentdesk.usta.com/) and [ITA](https://tournamentdesk.wearecollegetennis.com/login) Tournament Desk platforms and has processed ~10,000 Tournaments and ~1,000,000 matches in 2021.
 
