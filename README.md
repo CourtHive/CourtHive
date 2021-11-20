@@ -1,22 +1,23 @@
+
+<!--
 ![Follow](https://img.shields.io/twitter/follow/courthive?color=%231DA1F2&logo=Twitter&style=flat-square)
+->
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CourtHive/tods-competition-factory)
 ![npm](https://img.shields.io/npm/dm/tods-competition-factory)
 
-<!--
-/twitter/follow/:user?label=Follow
-/github/downloads/:user/:repo/total
-CourtHive/tods-competition-factory
-/github/commit-activity/:interval/:user/:repo
-->
 
 ### Hi there 👋
 
-<!--
-**CourtHive/CourtHive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CourtHive is an Open Source / Open Data initiative to develop components to support the emergence of a standards based ecosystem of services for competition.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
+[Competition Factory](https://courthive.github.io/tods-competition-factory/)
+
+<!--
+Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
