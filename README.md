@@ -1,9 +1,10 @@
 ![Follow](https://img.shields.io/twitter/follow/courthive?color=%231DA1F2&logo=Twitter&style=flat-square)
-![Follow](https://img.shields.io/github/downloads/courthive/tods-competition-factory)
+![Factory](https://img.shields.io/github/downloads/CourtHive/tods-competition-factory/total)
 
 <!--
 /twitter/follow/:user?label=Follow
 /github/downloads/:user/:repo/total
+CourtHive/tods-competition-factory
 ->
 
 ### Hi there 👋
