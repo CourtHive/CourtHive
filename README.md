@@ -18,8 +18,6 @@ Though the focus here is 🎾 Tennis, the underlying data structures and tournam
 
 [Competition Factory](https://courthive.github.io/tods-competition-factory/) is a collection of state engines and associated utilities which comprise all of the business rules necessary to generate and manage tournaments with events/draws/brackets of arbitrary complexity.  The [Competition Factory](https://courthive.github.io/tods-competition-factory/) is deployed in production in both the [USTA](https://tournamentdesk.usta.com/) and [ITA](https://tournamentdesk.wearecollegetennis.com/login) Tournament Desk platforms and has processed ~10,000 Tournaments and ~1,000,000 matches in 2021.
 
-[Score Grid](https://courthive.github.io/tods-score-grid/) is a new React project to visualize the draw structures produced by the [Competition Factory](https://courthive.github.io/tods-competition-factory/). I am out of my comfort zone as I don't have much experience with UX or CSS; enjoying learning [Stitches](https://stitches.dev/) and [Radix-UI](https://www.radix-ui.com/). This project is a second iteration of [React Draws](https://courthive.github.io/tods-react-draws/example)
-
 ## 👯 I’m looking to collaborate
 
 If you are a developer or designer and have a passion for sport... reach out! I have a number of other repositories (e.g. a back end NodeJS server utilizing [Level DB](https://github.com/google/leveldb)) which I'd like to make public but haven't had the time to clean up, document, write test suites, dockerize & etc.
